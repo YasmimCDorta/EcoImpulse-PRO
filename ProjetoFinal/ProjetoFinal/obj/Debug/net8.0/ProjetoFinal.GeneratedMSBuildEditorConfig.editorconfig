@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetoFinal
+build_property.RootNamespace = ProjetoFinal
+build_property.ProjectDir = C:\Users\SENAI3EM\Desktop\PROJETOFINAL-ECO\ProjetoFinal\ProjetoFinal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SENAI3EM\Desktop\PROJETOFINAL-ECO\ProjetoFinal\ProjetoFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Adic/Adic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRpY1xBZGljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Calc/Calc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xDYWxjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Faleconosco/Faleconosco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFsZWNvbm9zY29cRmFsZWNvbm9zY28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Kanban/Kanban.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FuYmFuXEthbmJhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/LojaSust/LojaSust.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9qYVN1c3RcTG9qYVN1c3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Ods/Ods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RzXE9kcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Quiz/Quiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxRdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_Calc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYWxjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_Faleconosco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GYWxlY29ub3Njby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_Kanban.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9LYW5iYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_LojaSust.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2phU3VzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_Ods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_Quiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9RdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Sob/Sob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29iXFNvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gz6lnk1pec

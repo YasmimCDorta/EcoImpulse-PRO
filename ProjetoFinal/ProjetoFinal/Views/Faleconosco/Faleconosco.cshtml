@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Fale Conosco";
+    Layout = "~/Views/Shared/_Faleconosco.cshtml";
+}
+
+<!--COLOCAR IMAGEM DE FUNDO-->
+<div classe="recipiente">
+    <div id="container">
+        <div id="contato">
+            <div id="dados">
+                <h1 id="hh1">FALE CONOSCO</h1>
+
+                <p>
+                    Preencha o formulário abaixo para nos enviar uma mensagem ou ligue para nós.
+                    Responderemos o mais breve possível.
+                </p>
+
+                <form id="frm-contato" action="#">
+                    <input id="frm-nome" type="text" placeholder="Seu nome" required />
+                    <input id="frm-email" type="email" placeholder="seu.email@gmail.com" required />
+                    <input id="frm-telefone" type="tel" placeholder="(44) 99888-8888" required />
+                    <textarea id="frm-mensagem" rows="10" placeholder="Deixe sua mensagem"></textarea>
+
+                    <div id="buttons">
+                        <button id="botao-enviar" type="submit" formaction="#">ENVIAR</button>
+                        <button id="botao-apagar" type="reset">APAGAR</button>
+                    </div>
+                </form>
+                <div id="caixa">
+                    <p>
+                        ECO IMPULSE<br />
+                        Av. São João,157-Brotas,SP<br />
+                        Telefone: (14) 99678 -10141<br />
+                        Email: ecoimpulse@gmail.com.br
+                    </p>
+                </div>
+            </div>
+            <div id="mapa" class="d-none d-lg-flex d-sm-none ">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.295226255927!2d72.52725307509152!3d23.01292997918052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e84d7c9128c41%3A0xe0f8fe7ac39598e!2sEco%20Impulse!5e0!3m2!1spt-BR!2sbr!4v1725039397176!5m2!1spt-BR!2sbr" 
+                       width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" 
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
+</div>

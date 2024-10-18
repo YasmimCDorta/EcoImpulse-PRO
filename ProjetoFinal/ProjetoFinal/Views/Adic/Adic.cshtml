@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Adic";
+}
+
+<div class="text-center m-4">
+    <h1 style="margin:30px;" >ADICIONE SEU PRODUTO</h1>
+</div>
+
+<div class="p-3 text-center" style="background-color:#D1DEC6; border-radius:20px;">
+    <p style="font-size:larger;">
+        Confira o estado do seu produto, lembre-se que alguém deve poder usá-lo.
+        Não se esqueça de adicionar todas as informações (valor, objeto de troca, tamanho, etc), e adicionar imagens do mesmo.
+    </p>
+</div>
+<form id="frm-prod" action="#">
+
+    <div style="margin-top:30px;">
+        <label for="arquivo" class="form-label" style="margin-bottom:15px; font-size:large;">Adicione as imagens (.png; .jpeg):</label>
+        <input type="file" name="arquivo" class="form-control" />
+    </div>
+
+<div class="row col-12">
+    <div class="col-6" style="margin-top:30px;">
+    <label for="name" class="form-label" style="margin-bottom:15px; font-size:large;">Nome do Produto:</label>
+    <input type="text" name="name" class="form-control" style="background-color:#D1DEC6; opacity:50%; height:40px;" />
+    </div>
+    <div class="col-6" style="margin-top:30px;">
+        <label for="num" class="form-label" style="margin-bottom:15px; font-size:large;">Valor da Troca/Doação:</label>
+        <input type="number" name="num" class="form-control" style="background-color:#D1DEC6; opacity:50%; height:40px;" />
+    </div>
+</div>
+
+    <p style="margin-bottom:15px; font-size:large;">Descrição do Produto:</p>
+    <textarea id="frm-mensagem" rows="8" placeholder="Deixe sua mensagem"></textarea>
+
+    <div class="align-items-center justify-content-center my-4">
+        <div id="buttons" class="text-center">
+            <button id="botao-enviar" type="submit" formaction="#" class="btn btn-primary me-2">SALVAR</button>
+            <button id="botao-voltar" type="reset" class="btn btn-secondary">VOLTAR</button>
+        </div>
+    </div>
+
+</form>
