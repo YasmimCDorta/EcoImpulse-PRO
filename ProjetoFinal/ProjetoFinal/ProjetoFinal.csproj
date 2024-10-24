@@ -14,7 +14,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\Reciclagem\Reci.cshtml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Reciclagem\Reci.cshtml" />
     <Content Remove="Views\Shared\_Sob.cshtml" />
+    <Content Remove="wwwroot\css\FaleConosco.css" />
+    <Content Remove="wwwroot\css\StyleFC.css" />
     <Content Remove="wwwroot\js\Kanban.css" />
   </ItemGroup>
 
@@ -37,9 +44,12 @@
     <Content Include="wwwroot\img\8.png" />
     <Content Include="wwwroot\img\9.png" />
     <Content Include="wwwroot\img\dois.png" />
+    <Content Include="wwwroot\img\FundC.jpg" />
+    <Content Include="wwwroot\img\FundoCalcu.jpg" />
     <Content Include="wwwroot\img\FundoFaleconosco.jpg" />
     <Content Include="wwwroot\img\FundoKanban.jpg" />
     <Content Include="wwwroot\img\fundoQ.jpg" />
+    <Content Include="wwwroot\img\FunfoFC.jpg" />
     <Content Include="wwwroot\img\ImgfundoCalc.jpg" />
     <Content Include="wwwroot\img\loja sust.png" />
     <Content Include="wwwroot\img\Loja Susten.mp4" />
