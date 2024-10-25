@@ -3,8 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\reciclagem\\reciclagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\reciclagem\\reciclagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\falecon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\falecon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\calc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\calc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\js\\sobre.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\js\\sobre.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\sob\\sob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\sob\\sob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\js\\drapdrop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\js\\drapdrop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\kanban\\kanban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\kanban\\kanban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\sob.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\sob.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\js\\moment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\js\\moment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\kanban.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\kanban.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_kanban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_kanban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\pess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\pess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\pessoasust\\pessoasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\pessoasust\\pessoasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_pessoasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_pessoasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\lojasust.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\lojasust.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\controllers\\pessoasustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\controllers\\pessoasustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_lojasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_lojasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\ods\\ods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\ods\\ods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_quiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,18 +103,6 @@
       "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_ods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_lojasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_lojasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_kanban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_kanban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_faleconosco.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_faleconosco.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,68 +111,24 @@
       "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\lojasust\\lojasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\lojasust\\lojasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\controllers\\reciclagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\controllers\\reciclagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\quiz.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\quiz.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\ods\\ods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\ods\\ods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\quiz\\quiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\quiz\\quiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\reciclagem\\reci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\reciclagem\\reci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\js\\quiz.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\js\\quiz.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\calc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\calc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\falecon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\falecon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\calc\\calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\calc\\calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\faleconosco\\faleconosco.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\faleconosco\\faleconosco.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\controllers\\faleconoscocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\controllers\\faleconoscocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\controllers\\adiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\controllers\\adiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\StyleFC.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoFinal\\wwwroot\\css\\StyleFC.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\FaleConosco.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoFinal\\wwwroot\\css\\FaleConosco.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\ods.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\ods.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -111,307 +143,404 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Reciclagem.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Reciclagem\\Reciclagem.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Reciclagem\\Reciclagem.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Reciclagem\\Reciclagem.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Reciclagem\\Reciclagem.cshtml",
-              "ViewState": "AQIAAC4BAAAAAAAAAAAAAEIBAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T13:30:02.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReciclagemController.cs",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\ReciclagemController.cs",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Controllers\\ReciclagemController.cs",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\ReciclagemController.cs",
-              "RelativeToolTip": "ProjetoFinal\\Controllers\\ReciclagemController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:28:34.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Ods.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Ods\\Ods.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Ods\\Ods.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Ods\\Ods.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Ods\\Ods.cshtml",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAQwGsBAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T13:27:28.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Reci.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Reciclagem\\Reci.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Reciclagem\\Reci.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Reciclagem\\Reci.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Reciclagem\\Reci.cshtml",
-              "ViewState": "AQIAABgBAAAAAAAAAAAQwGgBAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T13:26:47.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T13:24:49.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T13:20:32.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Calc.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Calc\\Calc.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Calc\\Calc.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Calc\\Calc.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Calc\\Calc.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T13:06:07.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "calc.css",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\calc.css",
-              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\calc.css",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\calc.css",
-              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\calc.css",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T13:05:24.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "StyleFC.css",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\StyleFC.css",
-              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\StyleFC.css",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\StyleFC.css",
-              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\StyleFC.css",
-              "ViewState": "AQIAACQBAAAAAAAAAAAmwEQBAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T12:56:42.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FaleConosco.css",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\FaleConosco.css",
-              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\FaleConosco.css",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\FaleConosco.css",
-              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\FaleConosco.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T12:56:17.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "FaleCon.css",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\FaleCon.css",
               "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\FaleCon.css",
               "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\FaleCon.css",
               "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\FaleCon.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-18T14:23:12.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Faleconosco.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Faleconosco\\Faleconosco.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Faleconosco\\Faleconosco.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Faleconosco\\Faleconosco.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Faleconosco\\Faleconosco.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T14:21:21.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FaleconoscoController.cs",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\FaleconoscoController.cs",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Controllers\\FaleconoscoController.cs",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\FaleconoscoController.cs",
-              "RelativeToolTip": "ProjetoFinal\\Controllers\\FaleconoscoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:20:59.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Quiz.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Quiz.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Quiz.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Quiz.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Quiz.cshtml",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwDkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T14:20:35.592Z",
+              "WhenOpened": "2024-10-25T16:46:11.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Ods.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Ods.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Ods.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Ods.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Ods.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T14:20:31.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LojaSust.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_LojaSust.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_LojaSust.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_LojaSust.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_LojaSust.cshtml",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwDEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T14:20:27.806Z",
+              "Title": "sobre.js",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\sobre.js",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\js\\sobre.js",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\sobre.js",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\js\\sobre.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T16:44:58.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwDEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T14:20:18.157Z",
+              "Title": "Moment.js",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\Moment.js",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\js\\Moment.js",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\Moment.js",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\js\\Moment.js",
+              "ViewState": "AQIAACEWAAAAAAAAAAAYwDgWAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T16:18:14.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
+              "Title": "Pess.css",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Pess.css",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\Pess.css",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Pess.css",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\Pess.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-25T15:49:22.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PessoaSustController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\PessoaSustController.cs",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Controllers\\PessoaSustController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\PessoaSustController.cs",
+              "RelativeToolTip": "ProjetoFinal\\Controllers\\PessoaSustController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:41:52.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_PessoaSust.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_PessoaSust.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_PessoaSust.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_PessoaSust.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_PessoaSust.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T15:40:36.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calc.css",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\calc.css",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\calc.css",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\calc.css",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\calc.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-25T15:40:02.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PessoaSust.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T15:39:09.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T15:00:07.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Sobre.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:59:31.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Quiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Quiz.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Quiz.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Quiz.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Quiz.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:59:21.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Ods.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Ods.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Ods.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Ods.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Ods.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:59:17.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Kanban.cshtml",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Kanban.cshtml",
               "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Kanban.cshtml",
               "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Kanban.cshtml",
               "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Kanban.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAAdAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwDQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T14:20:14.176Z",
+              "WhenOpened": "2024-10-25T14:59:04.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "_Home.cshtml",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Home.cshtml",
               "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Home.cshtml",
               "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Home.cshtml",
               "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Home.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADMAAAAdAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T14:20:10.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T14:58:57.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Calc.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Calc.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Calc.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Calc.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Calc.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvzQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T14:19:40.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "_Faleconosco.cshtml",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Faleconosco.cshtml",
               "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Faleconosco.cshtml",
               "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Faleconosco.cshtml",
               "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Faleconosco.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAdAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T14:18:35.442Z",
+              "WhenOpened": "2024-10-25T14:58:50.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LojaSust.css",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\LojaSust.css",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\LojaSust.css",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\LojaSust.css",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\LojaSust.css",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-25T14:55:06.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "CalcController.cs",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\CalcController.cs",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Controllers\\CalcController.cs",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\CalcController.cs",
-              "RelativeToolTip": "ProjetoFinal\\Controllers\\CalcController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T12:16:44.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-18T12:05:24.239Z"
+              "WhenOpened": "2024-10-25T14:54:18.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AdicController.cs",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\AdicController.cs",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Controllers\\AdicController.cs",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Controllers\\AdicController.cs",
-              "RelativeToolTip": "ProjetoFinal\\Controllers\\AdicController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T12:04:01.582Z"
+              "DocumentIndex": 26,
+              "Title": "_Calc.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Calc.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Calc.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Calc.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Calc.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:43:40.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LojaSust.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_LojaSust.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_LojaSust.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_LojaSust.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_LojaSust.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:42:01.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LojaSust.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\LojaSust\\LojaSust.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\LojaSust\\LojaSust.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\LojaSust\\LojaSust.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\LojaSust\\LojaSust.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:41:54.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:40:44.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Quiz.js",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\Quiz.js",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\js\\Quiz.js",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\Quiz.js",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\js\\Quiz.js",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAAAL0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T14:27:39.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Quiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Quiz\\Quiz.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Quiz\\Quiz.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Quiz\\Quiz.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Quiz\\Quiz.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:21:16.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Quiz.css",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Quiz.css",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\Quiz.css",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Quiz.css",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\Quiz.css",
+              "ViewState": "AQIAADwAAAAAAAAAAAAcwFEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-25T14:20:59.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Ods.css",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Ods.css",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\Ods.css",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Ods.css",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\Ods.css",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-25T14:06:09.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ods.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Ods\\Ods.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Ods\\Ods.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Ods\\Ods.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Ods\\Ods.cshtml",
+              "ViewState": "AQIAACEBAAAAAAAAAAAAAD4BAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:04:38.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrapDrop.js",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\DrapDrop.js",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\js\\DrapDrop.js",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\DrapDrop.js",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\js\\DrapDrop.js",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T13:49:20.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kanban.css",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Kanban.css",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\Kanban.css",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Kanban.css",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\Kanban.css",
+              "ViewState": "AQIAAFoBAAAAAAAAAAAAAHMBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-25T13:48:39.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kanban.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Kanban\\Kanban.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Kanban\\Kanban.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Kanban\\Kanban.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Kanban\\Kanban.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T13:47:49.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T13:40:04.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sob.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Sob\\Sob.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Sob\\Sob.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Sob\\Sob.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Sob\\Sob.cshtml",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T13:39:40.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sob.css",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Sob.css",
+              "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\Sob.css",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Sob.css",
+              "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\Sob.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-25T13:18:11.522Z",
+              "EditorCaption": ""
             }
           ]
         }

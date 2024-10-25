@@ -1,7 +1,7 @@
 
 
 body {
-    background-image: url(../img/FundoKanban.jpg);
+    background-image: url(../img/FundoQuiz.jpg);
     background-size: cover; /* Ocupa toda a tela */
     background-position: center; /* Centraliza a imagem */
     height: 100vh; /* Ocupa toda a altura da tela */
@@ -95,8 +95,6 @@ body {
     border-left: 5px solid #dc3545; /* Borda vermelha */
     padding: 10px; /* Espaçamento interno */
 }
-
-
 
 
 #modal {

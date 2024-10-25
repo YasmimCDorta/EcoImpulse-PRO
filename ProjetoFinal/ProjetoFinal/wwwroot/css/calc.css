@@ -1,6 +1,6 @@
 /*CALCULADORA*/
 body {
-    background-image: url('../img/FundC.jpg'); /* Substitua com o nome da sua imagem de fundo */
+    background-image: url('../img/FunfoFC.jpg'); /* Substitua com o nome da sua imagem de fundo */
     background-size: cover; /* Ocupa toda a tela */
     background-position: center; /* Centraliza a imagem */
     height: 100vh; /* Ocupa toda a altura da tela */
@@ -22,22 +22,19 @@ input[type="number"] {
     margin-bottom: 20px;
 }
 
-button [type="button"] {
+button[type="button"] {
     width: 300px;
     height: 60px;
     font-size: 18px;
-    margin: 10px;
+    margin-top: 25px;
     padding: 10px;
-    background-color: #243757;
     color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
-    button[type="button"]:hover {
-        background-color: #243757;
-    }
+
 
 #modal {
     position: fixed;
@@ -45,7 +42,8 @@ button [type="button"] {
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1;
-    background-color: #d4c9ad;
+    background-color: #ebe7e0;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     height: 120px;
     width: 300px;
     padding: 20px;

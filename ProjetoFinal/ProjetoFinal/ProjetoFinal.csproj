@@ -7,9 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\NovaPasta\**" />
     <Compile Remove="wwwroot\img\**" />
+    <Content Remove="Views\NovaPasta\**" />
     <Content Remove="wwwroot\img\**" />
+    <EmbeddedResource Remove="Views\NovaPasta\**" />
     <EmbeddedResource Remove="wwwroot\img\**" />
+    <None Remove="Views\NovaPasta\**" />
     <None Remove="wwwroot\img\**" />
   </ItemGroup>
 
@@ -18,11 +22,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Remove="Views\Home\Privacy.cshtml" />
     <Content Remove="Views\Reciclagem\Reci.cshtml" />
+    <Content Remove="Views\Shared\_Calc - Cópia.cshtml" />
+    <Content Remove="Views\Shared\_Layout - Cópia.cshtml" />
     <Content Remove="Views\Shared\_Sob.cshtml" />
     <Content Remove="wwwroot\css\FaleConosco.css" />
     <Content Remove="wwwroot\css\StyleFC.css" />
     <Content Remove="wwwroot\js\Kanban.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Shared\_Layout - Cópia %282%29.cshtml.css" />
+    <None Remove="Views\Shared\_Layout - Cópia.cshtml.css" />
   </ItemGroup>
 
   <ItemGroup>
@@ -43,16 +55,37 @@
     <Content Include="wwwroot\img\7.png" />
     <Content Include="wwwroot\img\8.png" />
     <Content Include="wwwroot\img\9.png" />
+    <Content Include="wwwroot\img\banner1.png" />
+    <Content Include="wwwroot\img\Design sem nome (1).png" />
+    <Content Include="wwwroot\img\Design sem nome 2.png" />
+    <Content Include="wwwroot\img\Design sem nome.png" />
     <Content Include="wwwroot\img\dois.png" />
+    <Content Include="wwwroot\img\FotoPilar.png" />
     <Content Include="wwwroot\img\FundC.jpg" />
     <Content Include="wwwroot\img\FundoCalcu.jpg" />
     <Content Include="wwwroot\img\FundoFaleconosco.jpg" />
     <Content Include="wwwroot\img\FundoKanban.jpg" />
+    <Content Include="wwwroot\img\Fundoo.jpg" />
+    <Content Include="wwwroot\img\fundoPS.png" />
     <Content Include="wwwroot\img\fundoQ.jpg" />
+    <Content Include="wwwroot\img\FundoQuiz.jpg" />
     <Content Include="wwwroot\img\FunfoFC.jpg" />
+    <Content Include="wwwroot\img\icon1.jpg" />
+    <Content Include="wwwroot\img\icon2.jpg" />
+    <Content Include="wwwroot\img\icon3.jpg" />
     <Content Include="wwwroot\img\ImgfundoCalc.jpg" />
+    <Content Include="wwwroot\img\integ1.png" />
+    <Content Include="wwwroot\img\integ2.png" />
+    <Content Include="wwwroot\img\integ3.png" />
+    <Content Include="wwwroot\img\integ4.png" />
+    <Content Include="wwwroot\img\logotipofv.png" />
     <Content Include="wwwroot\img\loja sust.png" />
     <Content Include="wwwroot\img\Loja Susten.mp4" />
+    <Content Include="wwwroot\img\organico.png" />
+    <Content Include="wwwroot\img\papel.png" />
+    <Content Include="wwwroot\img\pexels-philippedonn-1169754.jpg" />
+    <Content Include="wwwroot\img\PilaresPs.png" />
+    <Content Include="wwwroot\img\plastico.png" />
     <Content Include="wwwroot\img\sob1.png" />
     <Content Include="wwwroot\img\sob2.png" />
     <Content Include="wwwroot\img\sob3.png" />
@@ -61,6 +94,7 @@
     <Content Include="wwwroot\img\sob6.png" />
     <Content Include="wwwroot\img\tres.png" />
     <Content Include="wwwroot\img\um.png" />
+    <Content Include="wwwroot\img\vidro.png" />
   </ItemGroup>
 
 </Project>

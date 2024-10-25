@@ -24,3 +24,5 @@
         modal.style.display = "none";
     }
 }
+// Exibir a modal
+

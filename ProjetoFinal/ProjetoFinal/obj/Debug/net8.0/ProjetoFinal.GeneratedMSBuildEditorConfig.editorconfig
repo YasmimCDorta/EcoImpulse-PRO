@@ -34,10 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Kanban/Kanban.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FuYmFuXEthbmJhbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Ods/Ods.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RzXE9kcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/PessoaSust/PessoaSust.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hU3VzdFxQZXNzb2FTdXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Quiz/Quiz.cshtml]
@@ -86,8 +86,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PZHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_PessoaSust.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QZXNzb2FTdXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_Quiz.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9RdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_Sobre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Tb2JyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/SENAI3EM/Desktop/PROJETOFINAL-ECO/ProjetoFinal/ProjetoFinal/Views/Shared/_ValidationScriptsPartial.cshtml]

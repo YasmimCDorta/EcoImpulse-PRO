@@ -1,5 +1,177 @@
 ﻿@{
     ViewData["Title"] = "Sob";
-    Layout = "~/Views/Shared/_Home.cshtml";
+    Layout = "~/Views/Shared/_Sobre.cshtml";
 }
 
+
+<div class="about-section">
+    <h1 class="about-title">SOBRE NÓS</h1>
+    <p class="about-description">Conheça a equipe por trás da ECO IMPULSE</p>
+</div>
+
+
+<div class="mission text-center my-5" style="background-color: #e8f5e9; padding: 40px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #2e7d32; font-size: 2.5rem; font-weight: bold;">Nossa Missão</h2>
+    <p style="color: #1b5e20; font-size: 1.25rem; margin-bottom: 30px;">
+        A ECO IMPULSE tem como objetivo promover práticas sustentáveis através de soluções inovadoras. Acreditamos que juntos podemos fazer a diferença e transformar o mundo em um lugar mais verde e consciente!
+    </p>
+    <div class="icon-container">
+        <div class="icon" style="display: inline-block; margin: 0 20px;">
+            <img src="~/img/icon2.jpg" alt="Sustentabilidade" style="width: 120px; height: 120px; border-radius:15px;">
+            <p style="margin-top: 10px; font-weight: bold; color: #33691e;">Sustentabilidade</p>
+        </div>
+        <div class="icon" style="display: inline-block; margin: 0 20px;">
+            <img src="~/img/icon3.jpg" alt="Inovação" style="width: 120px; height: 120px; border-radius:15px;">
+            <p style="margin-top: 10px; font-weight: bold; color: #33691e;">Inovação</p>
+        </div>
+        <div class="icon" style="display: inline-block; margin: 0 20px;">
+            <img src="~/img/icon1.jpg" alt="Conscientização" style="width: 120px; height: 120px; border-radius:15px;">
+            <p style="margin-top: 10px; font-weight: bold; color: #33691e;">Conscientização</p>
+        </div>
+    </div>
+    <button onclick="location.href='/Faleconosco/Faleconosco';" style="padding: 10px 20px; background-color: #388e3c; color: #ffffff; border: none; border-radius: 5px;">
+        Junte-se a Nós!
+    </button>
+</div>
+
+
+<div class="container my-5">
+    <h2 class="text-center mb-5">Nossa Equipe</h2>
+    <div class="row justify-content-center">
+        <!-- Card do Integrante 1 -->
+        <div class="col-12 col-md-3 mb-4 text-center">
+            <div class="team-card" onclick="showModal('modalAlice')">
+                <div class="image-wrapper">
+                    <img src="~/img/integ1.png" class="member-photo" alt="Alice">
+                </div>
+                <div class="card-content">
+                    <h4>Alice</h4>
+                    <p class="subtitle">Programadora Front-End</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card do Integrante 2 -->
+        <div class="col-12 col-md-3 mb-4 text-center">
+            <div class="team-card" onclick="showModal('modalYasmim')">
+                <div class="image-wrapper">
+                    <img src="~/img/integ2.png" class="member-photo" alt="Yasmim">
+                </div>
+                <div class="card-content">
+                    <h4>Yasmim</h4>
+                    <p class="subtitle">Programadora Back-End</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card do Integrante 3 -->
+        <div class="col-12 col-md-3 mb-4 text-center">
+            <div class="team-card" onclick="showModal('modalVitor')">
+                <div class="image-wrapper">
+                    <img src="~/img/integ4.png" class="member-photo" alt="Vitor">
+                </div>
+                <div class="card-content">
+                    <h4>Vitor</h4>
+                    <p class="subtitle">Programador Front-End</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card do Integrante 4 -->
+        <div class="col-12 col-md-3 mb-4 text-center">
+            <div class="team-card" onclick="showModal('modalVinicius')">
+                <div class="image-wrapper">
+                    <img src="~/img/integ3.png" class="member-photo" alt="Vinicius">
+                </div>
+                <div class="card-content">
+                    <h4>Vinicius</h4>
+                    <p class="subtitle">Programador Back-End</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal para Alice -->
+<div class="modal" id="modalAlice" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Alice - Programadora Front-End</h5>
+                <button type="button" class="close" aria-label="Close" onclick="closeModal('modalAlice')">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p><strong>Especialização:</strong> Desenvolvimento de interfaces e experiência do usuário.</p>
+                <p><strong>Motivações:</strong> Acredita na criação de experiências digitais que transformem o dia a dia das pessoas.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal para Yasmim -->
+<div class="modal" id="modalYasmim" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Yasmim - Programadora Back-End</h5>
+                <button type="button" class="close" aria-label="Close" onclick="closeModal('modalYasmim')">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p><strong>Especialização:</strong> Desenvolvimento de sistemas e lógica de programação.</p>
+                <p><strong>Motivações:</strong> Criar soluções que ajudem a tornar o mundo mais sustentável.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal para Vitor -->
+<div class="modal" id="modalVitor" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Vitor - Programador Front-End</h5>
+                <button type="button" class="close" aria-label="Close" onclick="closeModal('modalVitor')">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p><strong>Especialização:</strong> Desenvolvimento de aplicações web e mobile.</p>
+                <p><strong>Motivações:</strong> Transformar ideias em soluções que façam a diferença na vida das pessoas.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal para Vinicius -->
+<div class="modal" id="modalVinicius" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Vinicius - Programador Back-End</h5>
+                <button type="button" class="close" aria-label="Close" onclick="closeModal('modalVinicius')">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p><strong>Especialização:</strong> Arquitetura de sistemas e integração de APIs.</p>
+                <p><strong>Motivações:</strong> Criar soluções eficientes que impactem positivamente o meio ambiente.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="newsletter-subscription text-center my-5" style="background-color: #e8f5e9; padding: 40px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #388e3c; font-size: 2rem; font-weight: bold;">Inscreva-se na Nossa Newsletter!</h2>
+    <p style="color: #66bb6a; font-size: 1rem; margin-bottom: 30px;">
+        Receba atualizações, dicas e novidades sobre práticas sustentáveis diretamente no seu e-mail!
+    </p>
+    <form action="/newsletter" method="POST" style="display: flex; justify-content: center; align-items: center;">
+        <input type="email" name="email" placeholder="Digite seu e-mail" required style="padding: 10px; border-radius: 5px; border: 1px solid #66bb6a; margin-right: 10px; width: 300px;">
+        <button type="submit" style="padding: 10px 20px; background-color: #81c784; color: #ffffff; border: none; border-radius: 5px;">
+            Inscrever-se
+        </button>
+    </form>
+</div>
+
+
+
+
+<script src="~/js/sobre.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

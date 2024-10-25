@@ -56,7 +56,6 @@ img {
     .p-3 {
         width: 70%; /* Menos espaço em tablets */
     }
-
 }
 
 /* Para telas grandes (desktops) */
@@ -130,3 +129,4 @@ img {
     .btn-close:hover {
         color: #fff; /* Cor do botão ao passar o mouse */
     }
+

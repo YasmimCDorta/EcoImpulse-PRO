@@ -21,8 +21,16 @@
       "PackagePath": "staticwebassets\\css\\Ods.css"
     },
     {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Pess.css",
+      "PackagePath": "staticwebassets\\css\\Pess.css"
+    },
+    {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Quiz.css",
       "PackagePath": "staticwebassets\\css\\Quiz.css"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Sob.css",
+      "PackagePath": "staticwebassets\\css\\Sob.css"
     },
     {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\calc.css",
@@ -105,6 +113,22 @@
       "PackagePath": "staticwebassets\\img\\9.png"
     },
     {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\Design sem nome (1).png",
+      "PackagePath": "staticwebassets\\img\\Design sem nome (1).png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\Design sem nome 2.png",
+      "PackagePath": "staticwebassets\\img\\Design sem nome 2.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\Design sem nome.png",
+      "PackagePath": "staticwebassets\\img\\Design sem nome.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\FotoPilar.png",
+      "PackagePath": "staticwebassets\\img\\FotoPilar.png"
+    },
+    {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\FundC.jpg",
       "PackagePath": "staticwebassets\\img\\FundC.jpg"
     },
@@ -121,6 +145,14 @@
       "PackagePath": "staticwebassets\\img\\FundoKanban.jpg"
     },
     {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\FundoQuiz.jpg",
+      "PackagePath": "staticwebassets\\img\\FundoQuiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\Fundoo.jpg",
+      "PackagePath": "staticwebassets\\img\\Fundoo.jpg"
+    },
+    {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\FunfoFC.jpg",
       "PackagePath": "staticwebassets\\img\\FunfoFC.jpg"
     },
@@ -133,16 +165,76 @@
       "PackagePath": "staticwebassets\\img\\Loja Susten.mp4"
     },
     {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\PilaresPs.png",
+      "PackagePath": "staticwebassets\\img\\PilaresPs.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\banner1.png",
+      "PackagePath": "staticwebassets\\img\\banner1.png"
+    },
+    {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\dois.png",
       "PackagePath": "staticwebassets\\img\\dois.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\fundoPS.png",
+      "PackagePath": "staticwebassets\\img\\fundoPS.png"
     },
     {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\fundoQ.jpg",
       "PackagePath": "staticwebassets\\img\\fundoQ.jpg"
     },
     {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\icon1.jpg",
+      "PackagePath": "staticwebassets\\img\\icon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\icon2.jpg",
+      "PackagePath": "staticwebassets\\img\\icon2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\icon3.jpg",
+      "PackagePath": "staticwebassets\\img\\icon3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\integ1.png",
+      "PackagePath": "staticwebassets\\img\\integ1.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\integ2.png",
+      "PackagePath": "staticwebassets\\img\\integ2.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\integ3.png",
+      "PackagePath": "staticwebassets\\img\\integ3.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\integ4.png",
+      "PackagePath": "staticwebassets\\img\\integ4.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\logotipofv.png",
+      "PackagePath": "staticwebassets\\img\\logotipofv.png"
+    },
+    {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\loja sust.png",
       "PackagePath": "staticwebassets\\img\\loja sust.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\organico.png",
+      "PackagePath": "staticwebassets\\img\\organico.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\papel.png",
+      "PackagePath": "staticwebassets\\img\\papel.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\pexels-philippedonn-1169754.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-philippedonn-1169754.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\plastico.png",
+      "PackagePath": "staticwebassets\\img\\plastico.png"
     },
     {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\sob1.png",
@@ -177,6 +269,10 @@
       "PackagePath": "staticwebassets\\img\\um.png"
     },
     {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\vidro.png",
+      "PackagePath": "staticwebassets\\img\\vidro.png"
+    },
+    {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\DrapDrop.js",
       "PackagePath": "staticwebassets\\js\\DrapDrop.js"
     },
@@ -193,8 +289,16 @@
       "PackagePath": "staticwebassets\\js\\calc.js"
     },
     {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\faqQuestions.js",
+      "PackagePath": "staticwebassets\\js\\faqQuestions.js"
+    },
+    {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\sobre.js",
+      "PackagePath": "staticwebassets\\js\\sobre.js"
     },
     {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\LICENSE",
