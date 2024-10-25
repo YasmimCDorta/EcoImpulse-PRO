@@ -1,0 +1,50 @@
+@media (max-width: 768px) {
+    .card {
+        width: 90%; /* Largura total em telas menores */
+        height: auto; /* Altura automática para ajustar ao conteúdo */
+    }
+}
+
+@media (max-width: 480px) {
+    .card {
+        width: 100%; /* Largura total em smartphones */
+        height: auto; /* Altura automática para ajustar ao conteúdo */
+        margin: 5px 0; /* Espaço reduzido entre os cards */
+    }
+
+    p {
+        font-size: 18px; /* Ajusta o tamanho da fonte para telas pequenas */
+    }
+}
+
+@media (max-width: 768px) {
+    .d-flex {
+        flex-direction: column; /* Empilha o conteúdo verticalmente */
+        align-items: center;
+        text-align: center;
+    }
+
+    .logo-container {
+        max-width: 200px; /* Ajusta a largura do logo para telas menores */
+        margin-bottom: 20px;
+    }
+
+    .display-4 {
+        font-size: 30px; /* Reduz o tamanho da fonte do título */
+    }
+
+    .text-container p {
+        font-size: 20px; /* Reduz o tamanho do texto em telas menores */
+        margin: 0; /* Remove margens extras */
+    }
+}
+
+@media (max-width: 480px) {
+    .display-4 {
+        font-size: 24px; /* Reduz ainda mais o tamanho do título para smartphones */
+    }
+
+    .text-container p {
+        font-size: 18px; /* Ajusta o texto de apresentação */
+    }
+}

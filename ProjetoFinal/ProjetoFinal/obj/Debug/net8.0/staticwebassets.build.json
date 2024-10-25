@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iQtmcwUYi4Fk4lNmTcoSUh0uh2D01INrMygHSoY6F6A=",
+  "Hash": "cLLjd0L/DMs7N0vs2meZJXa+Y/SxPs4cJcvgBgpf+W4=",
   "Source": "ProjetoFinal",
   "BasePath": "_content/ProjetoFinal",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\FaleCon.css"
+    },
+    {
+      "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Home.css",
+      "SourceId": "ProjetoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinal",
+      "RelativePath": "css/Home.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Home.css"
     },
     {
       "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Kanban.css",
@@ -1005,6 +1024,25 @@
       "OriginalItemSpec": "wwwroot\\img\\integ4.png"
     },
     {
+      "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\latasRec.jpg",
+      "SourceId": "ProjetoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinal",
+      "RelativePath": "img/latasRec.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\latasRec.jpg"
+    },
+    {
       "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\logotipofv.png",
       "SourceId": "ProjetoFinal",
       "SourceType": "Discovered",
@@ -1060,6 +1098,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Loja Susten.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\metal.png",
+      "SourceId": "ProjetoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinal",
+      "RelativePath": "img/metal.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\metal.png"
     },
     {
       "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\organico.png",
@@ -1421,6 +1478,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Quiz.js"
+    },
+    {
+      "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\Reciclagem.js",
+      "SourceId": "ProjetoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinal",
+      "RelativePath": "js/Reciclagem.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Reciclagem.js"
     },
     {
       "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\site.js",

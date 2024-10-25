@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\FaleCon.css"
     },
     {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Kanban.css",
       "PackagePath": "staticwebassets\\css\\Kanban.css"
     },
@@ -213,12 +217,20 @@
       "PackagePath": "staticwebassets\\img\\integ4.png"
     },
     {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\latasRec.jpg",
+      "PackagePath": "staticwebassets\\img\\latasRec.jpg"
+    },
+    {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\logotipofv.png",
       "PackagePath": "staticwebassets\\img\\logotipofv.png"
     },
     {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\loja sust.png",
       "PackagePath": "staticwebassets\\img\\loja sust.png"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\metal.png",
+      "PackagePath": "staticwebassets\\img\\metal.png"
     },
     {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\organico.png",
@@ -283,6 +295,10 @@
     {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\Quiz.js",
       "PackagePath": "staticwebassets\\js\\Quiz.js"
+    },
+    {
+      "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\Reciclagem.js",
+      "PackagePath": "staticwebassets\\js\\Reciclagem.js"
     },
     {
       "Id": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\calc.js",

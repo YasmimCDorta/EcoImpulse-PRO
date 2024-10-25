@@ -78,9 +78,11 @@
     <Content Include="wwwroot\img\integ2.png" />
     <Content Include="wwwroot\img\integ3.png" />
     <Content Include="wwwroot\img\integ4.png" />
+    <Content Include="wwwroot\img\latasRec.jpg" />
     <Content Include="wwwroot\img\logotipofv.png" />
     <Content Include="wwwroot\img\loja sust.png" />
     <Content Include="wwwroot\img\Loja Susten.mp4" />
+    <Content Include="wwwroot\img\metal.png" />
     <Content Include="wwwroot\img\organico.png" />
     <Content Include="wwwroot\img\papel.png" />
     <Content Include="wwwroot\img\pexels-philippedonn-1169754.jpg" />
