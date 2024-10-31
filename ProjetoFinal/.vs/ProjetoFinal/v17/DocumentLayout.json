@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\ods\\ods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\ods\\ods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\pessoasust\\pessoasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\pessoasust\\pessoasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\adic\\adic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\adic\\adic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\pess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\pess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\pessoasust\\pessoasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\pessoasust\\pessoasust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\css\\sob.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\wwwroot\\js\\sobre.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\wwwroot\\js\\sobre.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\adic\\adic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|solutionrelative:projetofinal\\views\\adic\\adic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2B881B6-06E2-41EB-A7E4-70A82B2DCCBC}|ProjetoFinal\\ProjetoFinal.csproj|c:\\users\\senai3em\\desktop\\projetofinal-eco\\projetofinal\\projetofinal\\views\\calc\\calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -162,35 +162,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PessoaSust.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T15:39:09.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Sobre.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAkwDYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T14:59:31.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LojaSust.css",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\LojaSust.css",
               "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\LojaSust.css",
@@ -208,13 +184,14 @@
               "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\Pess.css",
               "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Pess.css",
               "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\Pess.css",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAAAAAA",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-25T15:49:22.145Z"
+              "WhenOpened": "2024-10-25T15:49:22.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_PessoaSust.cshtml",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_PessoaSust.cshtml",
               "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_PessoaSust.cshtml",
@@ -238,20 +215,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Ods.cshtml",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Ods\\Ods.cshtml",
               "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Ods\\Ods.cshtml",
               "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Ods\\Ods.cshtml",
               "RelativeToolTip": "ProjetoFinal\\Views\\Ods\\Ods.cshtml",
-              "ViewState": "AQIAAMQAAAAAAAAAAAAcwAkBAAAjAAAA",
+              "ViewState": "AQIAADkBAAAAAAAAAAAcwEgBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-25T14:04:38.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "sobre.js",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\js\\sobre.js",
               "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\js\\sobre.js",
@@ -263,20 +240,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ProjetoFinal\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAACCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAACCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-25T15:00:07.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Home.css",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Home.css",
               "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\Home.css",
@@ -284,12 +261,11 @@
               "RelativeToolTip": "ProjetoFinal\\wwwroot\\css\\Home.css",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAwDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-25T16:58:54.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T16:58:54.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\site.css",
@@ -301,7 +277,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Adic.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Adic\\Adic.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Adic\\Adic.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Adic\\Adic.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Adic\\Adic.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:11:23.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaSust.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\PessoaSust\\PessoaSust.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwFcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T15:39:09.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Sobre.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
+              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
+              "RelativeToolTip": "ProjetoFinal\\Views\\Shared\\_Sobre.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:59:31.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Sob.css",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\css\\Sob.css",
               "RelativeDocumentMoniker": "ProjetoFinal\\wwwroot\\css\\Sob.css",
@@ -313,19 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Adic.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Adic\\Adic.cshtml",
-              "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Adic\\Adic.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Adic\\Adic.cshtml",
-              "RelativeToolTip": "ProjetoFinal\\Views\\Adic\\Adic.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T17:11:23.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Sob.cshtml",
               "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\Views\\Sob\\Sob.cshtml",
               "RelativeDocumentMoniker": "ProjetoFinal\\Views\\Sob\\Sob.cshtml",
