@@ -1,50 +1,58 @@
-@media (max-width: 768px) {
-    .card {
-        width: 90%; /* Largura total em telas menores */
-        height: auto; /* Altura automática para ajustar ao conteúdo */
+.welcome-text {
+    font-size: 45px; /* Tamanho para telas pequenas */
+}
+
+.description-text {
+    font-size: 32px; /* Tamanho do texto para telas menores */
+    padding: 10px;
+}
+
+/* Ajustes para telas médias e grandes */
+@media (min-width: 768px) {
+    .welcome-text {
+        font-size: 40px;
+    }
+
+    .description-text {
+        font-size: 20px;
+        padding: 0;
+        margin-left: 20px;
     }
 }
 
-@media (max-width: 480px) {
-    .card {
-        width: 100%; /* Largura total em smartphones */
-        height: auto; /* Altura automática para ajustar ao conteúdo */
-        margin: 5px 0; /* Espaço reduzido entre os cards */
+.card {
+    transition: transform 0.2s;
+}
+
+    .card:hover {
+        transform: scale(1.05); /* Aumenta o tamanho do card ao passar o mouse */
     }
 
-    p {
-        font-size: 18px; /* Ajusta o tamanho da fonte para telas pequenas */
+@media (max-width: 768px) {
+    .card {
+        width: 90%; /* Faz os cards ocuparem mais espaço em telas menores */
+        margin: 10px 0; /* Ajusta a margem para melhor espaçamento */
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .d-flex {
-        flex-direction: column; /* Empilha o conteúdo verticalmente */
-        align-items: center;
-        text-align: center;
-    }
-
-    .logo-container {
-        max-width: 200px; /* Ajusta a largura do logo para telas menores */
-        margin-bottom: 20px;
-    }
-
-    .display-4 {
-        font-size: 30px; /* Reduz o tamanho da fonte do título */
-    }
-
-    .text-container p {
-        font-size: 20px; /* Reduz o tamanho do texto em telas menores */
-        margin: 0; /* Remove margens extras */
+        flex-direction: column; /* Cartões empilhados em telas pequenas */
     }
 }
 
-@media (max-width: 480px) {
-    .display-4 {
-        font-size: 24px; /* Reduz ainda mais o tamanho do título para smartphones */
+@media (max-width: 767px) {
+    .welcome-text {
+        font-size: 2rem; /* Tamanho menor para telas pequenas */
     }
 
-    .text-container p {
-        font-size: 18px; /* Ajusta o texto de apresentação */
+    .description-text {
+        font-size: 1rem; /* Tamanho menor para telas pequenas */
+        padding: 0 10px; /* Preenchimento nas laterais para telas pequenas */
+    }
+}
+@media (max-width: 768px) {
+    .card {
+        width: 250px; /* Define a largura dos cartões em tablets */
     }
 }
