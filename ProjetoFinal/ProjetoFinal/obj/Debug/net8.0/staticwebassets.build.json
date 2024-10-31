@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cLLjd0L/DMs7N0vs2meZJXa+Y/SxPs4cJcvgBgpf+W4=",
+  "Hash": "wHx0dxJFVERt5e4BDRrfcpQ34l/9dGJn2naCUczeSQQ=",
   "Source": "ProjetoFinal",
   "BasePath": "_content/ProjetoFinal",
   "Mode": "Default",
@@ -585,6 +585,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\9.png"
+    },
+    {
+      "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\arvores.jpg",
+      "SourceId": "ProjetoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinal",
+      "RelativePath": "img/arvores.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\arvores.jpg"
     },
     {
       "Identity": "C:\\Users\\SENAI3EM\\Desktop\\PROJETOFINAL-ECO\\ProjetoFinal\\ProjetoFinal\\wwwroot\\img\\banner1.png",
